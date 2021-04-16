@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP AXK6SA3677YG
+D Board to Board & Mezzanine Connectors CONN HEADER BRD/BRD 160 POS 0.5mm
+K
+F https://componentsearchengine.com/Datasheets/1/AXK6SA3677YG.pdf
+$ENDCMP
+#
+$CMP 744272221
+D Wurth WE-SL5 Series Wire-wound SMD Inductor with a Ferrite Core, 220 uH +/-40% Sectional Winding 2200mA Idc
+K
+F 
+$ENDCMP
+#
+$CMP HLMP-1700-B00A2
+D Broadcom 626 nm Red LED, 3mm (T-1) Circular Through Hole package
+K
+F http://uk.rs-online.com/web/p/products/0450941
+$ENDCMP
+#
+#End Doc Library
