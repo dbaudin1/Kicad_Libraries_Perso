@@ -24,4 +24,10 @@ K
 F http://uk.rs-online.com/web/p/products/0450941
 $ENDCMP
 #
+$CMP 09185066913
+D Headers & Wire Housings SEK-18 SV ML STD ANG29 RKZ 06P PL2
+K
+F https://www.mouser.fr/datasheet/2/179/HARTING_DS_09185066913_en_2020_08_24-1924661.pdf
+$ENDCMP
+#
 #End Doc Library
